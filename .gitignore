@@ -148,7 +148,6 @@ Temporary Items
 
 ### Gradle ###
 .gradle
-build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -166,3 +165,4 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/macos,gradle,kotlin,intellij
+.kotlintest/
